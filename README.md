@@ -1,10 +1,10 @@
 <center>
 
 # Mission Control
+
 ![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
 ![React](https://img.shields.io/badge/react-16.12.0-blue)
 [![code style: prettier](https://img.shields.io/badge/code%20style-prettier-ff69b4)](https://github.com/prettier/prettier)
-</center>
 
 |                                          [Kevin Afable](https://github.com/KAfable)                                          |                                          [Nicholas Gebhart](http://github.com/gebhartn)                                           |                                             [Dakotah Huey](https://github.com/frescocodes)                                             |
 | :--------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
@@ -18,15 +18,11 @@
 |                        [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/tonyrkovar)                        |                  [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/roywakumelojr)                   |              [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/tommycoleman87)              |
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/tony-kovar-772295136/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/roywakumelojr) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://github.com/tommycoleman87) |
 
-
-
+</center>
 
 ## Project Overview
 
-
-Mission Control is a system that provisions, tracks, monitors and controls all of the IT resources (virtual, physical, non-physical and logical) for every product built and maintained by your organization. It allows you to keep tabs on deadlines, team members, costs, and everything you need to push your product across the finish line.
-
-When operating at scale, it's easy to get lost in a sea of information. Mission Control provides the clarity and centralization you need to assess your team's productivity and make executive decisions. Mission Control is a one-stop-shop that allows you to get the information you need and focus on what matters most - execution.
+Mission Control is the Lambda Labs equivalent of an aircraft cockpit user interface. It provides a heads up view of the critical information Labs Staff needs to keep the Labs Cycle rolling ahead smoothly. Mission Control also provides the necessary input mechanisms to allow Labs Staff to control the Labs Cycle as it progresses from Labs Kickoff (takeoff) to Labs Demo Day (landing).
 
 ### Key Features
 
@@ -38,7 +34,7 @@ When operating at scale, it's easy to get lost in a sea of information. Mission 
 
 ## Tech Stack
 
-### Front end built using:
+### Front end built using
 
 #### React
 
@@ -59,7 +55,6 @@ When operating at scale, it's easy to get lost in a sea of information. Mission 
 #### OKTA
 
 - OKTA provides cloud software that helps us manage and secure user authentication into modern applications, and for developers to build identity controls into applications, website web services and devices.
-
 
 # Environment Variables
 
@@ -118,6 +113,5 @@ These contribution guidelines have been adapted from [this good-Contributing.md-
 ## Documentation
 
 See [Backend Documentation](https://github.com/Lambda-School-Labs/mission-control-be) for details on the backend of our project.
-
 
 ## Contributors
